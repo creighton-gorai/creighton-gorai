@@ -9,17 +9,17 @@
 
 // Customize the background color
 body {
-  background-color: linear-gradient(to top, lightskyred, whitesmoke);
+  background-color: lightsteelblue;
 }
 
 // Customize the menubar color
 .ui.menu {
-  background: lightred;
+  background: lightskyblue;
 }
 
 // Customize the home page icon colors
 .icon-color {
-  color: red;
+  color: darken(lightsteelblue, 20%);
 }
 
 // Prefer space between list items in screen mode.
