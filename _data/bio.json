@@ -12,7 +12,7 @@
       "postalCode": "96819",
       "city": "Honolulu",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "HI"
     },
     "profiles": [
       {
@@ -34,7 +34,12 @@
       ]
     },
     {
-      "name": "Psychology of UI",
+      "name": "Psychology of gaming UI",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Character/Scenic Animation",
       "keywords": [
       ]
     }
@@ -46,6 +51,7 @@
       "keywords": [
         "Java (Eclipse)",
         "C",
+        "C++",
       ]
     },
     {
@@ -53,7 +59,6 @@
       "level": "",
       "keywords": [
         "Windows",
-        "Ubuntu",
         "Git/GitHub",
         "Apple/MAC"
       ]
@@ -66,7 +71,7 @@
       "studyType": "B.S.",
       "startDate": "09-01-2011",
       "endDate": "Present",
-      "gpa": "2.15 (Fall 2016)",
+      "gpa": "2.48 (Summer 2017)",
       "courses": [
       ]
     }
