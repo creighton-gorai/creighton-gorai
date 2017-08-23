@@ -8,4 +8,4 @@ labels:
   - Learning
 ---
 
-_"Around here, however, we don't look backwards for very long. We keep moving forward, opening up new doors and doing new things, because we're curious... and curiosity keeps leading us down new paths."_ - ##Walt Disney 
+_"Around here, however, we don't look backwards for very long. We keep moving forward, opening up new doors and doing new things, because we're curious... and curiosity keeps leading us down new paths."_ - __*Walt Disney*__ 
