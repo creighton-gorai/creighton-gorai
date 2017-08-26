@@ -27,6 +27,8 @@ My father usually watches the car channel whent hey strip old cars and build the
 
 
 
+
+
 ## Stage 4: Upgrading
 As time moves on so does technology upgrades. My first hardware build was about a medium to low rate type of gaming computer. I had a mid ranged intel i5 core processor which was good enough to do a lot type of gaming, but of course I wanted more like most people. So I later upgraded the processor and graphics card. The pictures below look the same as above but both new parts are in there. I will also leave a parts list at the bottom just for reference.
 
