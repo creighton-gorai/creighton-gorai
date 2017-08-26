@@ -1,11 +1,11 @@
 ---
 layout: project
 type: project
-image: images/
-title: Desktop build and refinement
-permalink: projects
+image: images/IMG_2064.JPG
+title: CustomDesktop
+permalink: projects/CustomDesktop
 date: 2015
 labels:
   - Computer Hardware
-summary: First computer build and replacement parts to see what makes software run faster or slower with applications that need more or less processing power.
+summary: My first full desktop build to prepare for the future in Game Development and PC gaming.
 ---
