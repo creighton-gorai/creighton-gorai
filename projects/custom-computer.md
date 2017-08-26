@@ -22,9 +22,16 @@ Stage 2 was the most scary part of this whole project! Although these parts I bo
 My father usually watches the car channel whent hey strip old cars and build them from scratch and the end product is usually always nice. Then came to the start up part of their cars, usually cutting to commercial at the high point of starting the engine. This was the exact same thing for starting up my computer. *click* as I pressed the power button and... __BOOM__ it turns on and works at this point I was just glad to see I actually did everything correctly, but then everything goes south when I look at my screen and everything looks like it's in 240p lowest of all settings and I was unsure of what to do. Luckily I had my laptop on the side of me to google up the answer. It was just updating for just about all the piece of hardware. After about 1 hour of updating everything from OS to GPU everything was finally done and I was the owner of a cool new gaming type of desktop!
      
 <img class="ui medium middle floated image" src="{{ site.baseurl }}/images/IMG_2065.JPG">
+<img class="ui medium middle floated image" src="{{ site.baseurl }}/images/IMG_2066.JPG">
+
+
+
 
 ## Stage 4: Upgrading
 As time moves on so does technology upgrades. My first hardware build was about a medium to low rate type of gaming computer. I had a mid ranged intel i5 core processor which was good enough to do a lot type of gaming, but of course I wanted more like most people. So I later upgraded the processor and graphics card. The pictures below look the same as above but both new parts are in there. I will also leave a parts list at the bottom just for reference.
+
+<img class="ui medium middle floated image" src="{{ site.baseurl }}/images/Comp 01.jpg">
+<img class="ui medium middle floated image" src="{{ site.baseurl }}/images/Comp 02.jpg">
 
 
      
