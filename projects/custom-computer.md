@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+image: images/
 title: Desktop build and refinement
 permalink: projects
 date: 2015
