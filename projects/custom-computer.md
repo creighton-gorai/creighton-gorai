@@ -27,7 +27,7 @@ My father usually watches the car channel whent hey strip old cars and build the
 </div>
 
 ## Stage 4: Upgrading
-As time moves on so does technology upgrades. My first hardware build was about a medium to low rate type of gaming computer. I upgraded my previous processor of intel core i5 4690k to a intel core i7 4790k and graphics card from Nvidia GTX 960 to a Nvidia GTW 1070 for better performance. These are about the highest pieces of hardware my motherboard can handle for now so I think once this computer starts falling behind in performance or causes problems way later on in the future I think I will build a whole new computer to handle even more when I establish my career job in the future. 
+As time moves on so does technology upgrades. My first hardware build was about a medium to low rate type of gaming computer. I upgraded my previous processor of intel core i5 4690k to a intel core i7 4790k and graphics card from Nvidia GTX 960 to a Nvidia GTX 1070 for better performance. These are about the highest pieces of hardware my motherboard can handle for now so I think once this computer starts falling behind in performance or causes problems way later on in the future I think I will build a whole new computer to handle even more when I establish my career job in the future. 
 
 <div class="ui medium rounded images">
 <img class="ui medium left image" src="{{ site.baseurl }}/images/Comp 01.jpg">
