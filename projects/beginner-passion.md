@@ -22,13 +22,16 @@ It was the year of 2016 where I found which major I wanted ot pursue for my life
 ##Project 1
 The first project is usually the hardest since it was an introduction course and I have never coded before. This however was handled with much time and dedication to create this pretty neat intro game project. The link below is my you tube video of the project what it does and such. I name the project Fin and Jakes Skyrim Adventure. I combined the idea of the cartoon series Adventure Time and the game Elder Scrolls: Skyrim which put Fin and Jake in map of skyrim collecting Skyrim element items without hitting the enemies/monsters.
 
-https://www.youtube.com/watch?v=0mWdHk71728
+[ICS 111 Project 1] (https://www.youtube.com/watch?v=0mWdHk71728)
 
 <img class="ui medium floated rounded image" src="{{ site.baseurl }}/images/ics111p1.png">
 
 ##Project 2
 The second project seems simpler looking than the first, but was a bit more challenging to make since all the collectables were moving around the map. This was also hindered by the enemies that are placed around the area. It was also made a bit challenging for you to not see the enemies if u run into them and the movement was a bit quicker when pressing the button. There was also a score to keep track of your collection of items and hitting enemies would decrease your score. 
 
-https://www.youtube.com/watch?v=dbKu0EDJy8k
+[ICS 111 Project 2] (https://www.youtube.com/watch?v=dbKu0EDJy8k)
 
 <img class="ui medium floated rounded image" src="{{ site.baseurl }}/images/ics111p2.png">
+
+##Forward to the Future
+This experience was well worth taking the class and getting an insight to what I want to do as a career choice. I'm hoping to start an indie game of my own off of Unity and hopefully publishing it to [steam](http://store.steampowered.com/) one day.
