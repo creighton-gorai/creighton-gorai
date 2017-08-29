@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ics111p1.png
+image: images/project2.png
 title: Beginner Passion
 permalink: projects/beginner-passion
 date: 2016
