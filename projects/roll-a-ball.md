@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/roll-a-ball.png
+image: images/project3.png
 title: RollABall
 permalink: projects/RollABall
 date: 2016
