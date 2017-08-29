@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/p1.jpng
+image: images/p1.png
 title: CustomDesktop
 permalink: projects/CustomDesktop
 date: 2015
