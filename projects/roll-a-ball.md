@@ -22,5 +22,5 @@ This is the very first lesson you learn in Unity. This took a while to complete,
 Although I am putting a second project into this writing it is because it's the exact same project but in a different perspective. Above you see the 3D format which was actually quiet simpler than this version. Although you would think 2D is easier it was actually not. This project does the exact samething as above but it differences in the way that it is only from top to down perspective. The pieces are about the same with some graphical improvements but this time it is basically the 3D format perspective from above. The link to that is also in my github being: [Roll a Ball 2D](https://github.com/creighton-gorai/roll-a-ball-2d)
 
 <div class="ui large rounded images">
-<img class="ui large rounded image" src="{{ site.baseurl }}/images/2017-08-29.png">
+<img class="ui large rounded image" src="{{ site.baseurl }}/images/rollaball2d.png">
 </div>
