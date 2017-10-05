@@ -4,11 +4,7 @@ type: essay
 title: Semantics: Simple, Intricate, and Exquisite
 date: 2017-10-05
 labels:
-  - CSS
-  - HTML
   - UI Semantics
-  - JQuery
-  - JavaScript
   - Technical Essay
 ---
 
