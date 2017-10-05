@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Semantics: Simple, Intricate, and Exquisite
+title: Semantics Simple, Intricate, and Exquisite
 date: 2017-10-05
 labels:
   - Semantics UI
