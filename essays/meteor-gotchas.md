@@ -8,7 +8,7 @@ labels:
   - Meteor
 ---
 
-# Meteors Showering Intricacy
+# Meteors Simple Toy Robot feel with many hidden intricacies
 
 Imagine with in your mind a whole new world that you control, that you made, and that you inspire into life. This is a task that is either extremely easy or hard depending on if you are imaginative, perfectionist, or dedicated. This is the experience that Meteor offers. It is a language in which has many new opportunities which can be good or bad and can seem daunting at first at what and how to do things but eventually paint a picture of 1000 words or more once mastered. 
 
