@@ -22,14 +22,14 @@ For more information on this project we had please click this link to [UH Essent
 
 <div class="ui medium rounded images">
   <img class="ui medium left image" src={{site.baseurl}}/images/home-page.png">
-  <img class="ui medium left image" src={{site.baseurl}}/images/profile-page.png">
+  <img class="ui medium middle floated image" src={{site.baseurl}}/images/profile-page.png">
 </div>
 <div class="ui medium rounded images">
   <img class="ui medium left image" src={{site.baseurl}}/images/thread-page.png">
-  <img class="ui medium left image" src={{site.baseurl}}/images/submit-page.png">
+  <img class="ui medium middle floated image" src={{site.baseurl}}/images/submit-page.png">
 </div>
 <div class="ui medium rounded images">
-  <img class="ui medium left image" src={{site.baseurl}}/images/topic-page.png">
+  <img class="ui medium middle floated image" src={{site.baseurl}}/images/topic-page.png">
 </div>
 
 ## My Experience
