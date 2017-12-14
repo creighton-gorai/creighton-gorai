@@ -6,7 +6,7 @@ title: UH Essentials
 permalink: projects/uhessentials
 date: 2017
 labels:
-  - Website
+ - Website
   - Software Engineering
   - Forum
   - JavaScript
