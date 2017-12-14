@@ -6,12 +6,12 @@ title: UH Essentials
 permalink: projects/uhessentials
 date: 2017
 labels:
- - Website
- - Software Engineering
- - Forum
- - JavaScript
- - Meteor
- - Mongo
+  - Website
+  - Software Engineering
+  - Forum
+  - JavaScript
+  - Meteor
+  - Mongo
 summary: This is the first big project environment I have been in and it was an eye opening experience!
 ---
 # The Start
