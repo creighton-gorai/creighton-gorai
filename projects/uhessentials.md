@@ -15,6 +15,9 @@ As the Fall semester of 2017 was quickly coming to an end in my Information Comp
 ## My Contributions
 We had established 2 milestones for our project before the end of the semester. In Milestone 1 our group created 6 mock up pages 2 for each of us to finish before the due date of November 4. I created the mock up for the Topic and thread page. In the second milestone(which was a lot more challenging) I worked on making the submit button on our thread page to link to the submit page, edited a small portion of the landing page, helped implement the campus collection([database]to sort people into different campuses), and implemented the thread and topic collections. These were difficult tasks for me and my teammates, but we mostly got through it.
 
+## My Experience
+This was an extremely insightful experience. Although there was much to learn this semester that just meant that there was much more we knew at the end of the semester! Not only did we learn how to use all the different tools to create a website, we learned everything we needed to know about group and project management. We learned how to take a vague and big topic and break it down into smaller pieces easier to handle. We then worked as a team to slowly piece together this big puzzle we were given. It was a stressful, yet satisfying and exciting experience. It will always be something I won't forget as a beginner programmer. To learn what it takes to be able to create websites that we know today such as Facebook, Twitter, Reddit, You Tube, Google and more! 
+
 ## More Information About The Project
 For more information on this project we had please click this link to [UH Essentials](https://uhessentials.github.io/). From this link you will be able to learn what we have accomplished of this website, what we have future plans, getting our contacts, and even try the website yourselves!.(I will leave some screenshots of the project here for your viewing pleasure, but there are more about the website in the link above!)
 
@@ -29,6 +32,3 @@ For more information on this project we had please click this link to [UH Essent
 <div class="ui medium rounded images">
   <img class="ui medium middle floated image" src="{{site.baseurl}}/images/topic-page.png">
 </div>
-
-## My Experience
-This was an extremely insightful experience. Although there was much to learn this semester that just meant that there was much more we knew at the end of the semester! Not only did we learn how to use all the different tools to create a website, we learned everything we needed to know about group and project management. We learned how to take a vague and big topic and break it down into smaller pieces easier to handle. We then worked as a team to slowly piece together this big puzzle we were given. It was a stressful, yet satisfying and exciting experience. It will always be something I won't forget as a beginner programmer. To learn what it takes to be able to create websites that we know today such as Facebook, Twitter, Reddit, You Tube, Google and more! 
