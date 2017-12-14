@@ -7,6 +7,7 @@ permalink: projects/uhessentials
 date: 2017
 labels:
   - Software Engineering
+  - Web Development
 summary: This was an exciting project for the end of the semester which was very eye opening in website development.
 ---
 # The Start
