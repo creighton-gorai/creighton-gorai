@@ -24,15 +24,15 @@ We had established 2 milestones for our project before the end of the semester. 
 For more information on this project we had please click this link to [UH Essentials](https://uhessentials.github.io/). From this link you will be able to learn what we have accomplished of this website, what we have future plans, getting our contacts, and even try the website yourselves!.(I will leave some screenshots of the project here for your viewing pleasure, but there are more about the website in the link above!)
 
 <div class="ui medium rounded images">
-  <img class="ui medium left image" src={{site.baseurl}}/images/home-page.png">
-  <img class="ui medium middle floated image" src={{site.baseurl}}/images/profile-page.png">
+  <img class="ui medium left image" src="{{site.baseurl}}/images/home-page.png">
+  <img class="ui medium middle floated image" src="{{site.baseurl}}/images/profile-page.png">
 </div>
 <div class="ui medium rounded images">
-  <img class="ui medium left image" src={{site.baseurl}}/images/thread-page.png">
-  <img class="ui medium middle floated image" src={{site.baseurl}}/images/submit-page.png">
+  <img class="ui medium left image" src="{{site.baseurl}}/images/thread-page.png">
+  <img class="ui medium middle floated image" src="{{site.baseurl}}/images/submit-page.png">
 </div>
 <div class="ui medium rounded images">
-  <img class="ui medium middle floated image" src={{site.baseurl}}/images/topic-page.png">
+  <img class="ui medium middle floated image" src="{{site.baseurl}}/images/topic-page.png">
 </div>
 
 ## My Experience
