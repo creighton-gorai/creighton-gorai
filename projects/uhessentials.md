@@ -7,7 +7,6 @@ permalink: projects/uhessentials
 date: 2017
 labels:
   - Software Engineering
-  - Website Development
 summary: My first full desktop build to prepare for the future in Game Development and PC gaming.
 ---
 # The Start
