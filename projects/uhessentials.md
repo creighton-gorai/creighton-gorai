@@ -8,10 +8,11 @@ date: 2017
 labels:
   - Website
   - Software Engineering
-  - UH Manoa ICS 314
-  - Programming
+  - JavaScript
+  - Meteor
+  - Mongo
   - Forum
-summary: This is the first big project environment I have been in and it was eye opening and exciting!
+summary: This is the first big project environment I have been in and it was an eye opening experience!
 ---
 
 # The Start
