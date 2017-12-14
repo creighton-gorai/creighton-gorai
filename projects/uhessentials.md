@@ -1,10 +1,10 @@
 ---
 layout: project
 type: project
-image: images/home-page.jpg
-title: CustomDeskto
-permalink: projects/CustomDeskto
-date: 2015
+image: images/home-page.png
+title: UH Essentials
+permalink: projects/uhessentials
+date: 2017
 labels:
   - Computer Hardware
 summary: My first full desktop build to prepare for the future in Game Development and PC gaming.
