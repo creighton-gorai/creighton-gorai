@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/p1.jpg
+image: images/home-page.jpg
 title: CustomDeskto
 permalink: projects/CustomDeskto
 date: 2015
