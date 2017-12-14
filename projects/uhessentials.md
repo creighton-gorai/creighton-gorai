@@ -1,18 +1,13 @@
 ---
 layout: project
 type: project
-image: images/home-page.png
-title: UH Essentials
-permalink: projects/uhessentials
-date: 2017
+image: images/p1.jpg
+title: CustomDeskto
+permalink: projects/CustomDeskto
+date: 2015
 labels:
-  - Website
-  - Software Engineering
-  - Forum
-  - JavaScript
-  - Meteor
-  - Mongo
-summary: This is the first big project environment I have been in and it was an eye opening experience!
+  - Computer Hardware
+summary: My first full desktop build to prepare for the future in Game Development and PC gaming.
 ---
 # The Start
 As the Fall semester of 2017 was quickly coming to an end in my Information Computer Science(ICS) ICS 314 class. We were tasked to create a full website! It was a daunting idea at first, but from what we have learned throughout this semester and what we were still learning we had the tools to accomplish this task. It just needed to be thought through in steps. I was put in a group of 3 including me which consisted of: April Bala, Kailey Pa'ahana, and I. We were assigned a project in which we called UH Essentials. It was going to be a website for the whole UH system where you could learn about things happening around the campus. It was based off of Reddit where you can ask and you receive information from people. This system was going to be defined specifically for UH members only, which meant that only those who owned an account with in the UH database would be able to access this helpful website. 
